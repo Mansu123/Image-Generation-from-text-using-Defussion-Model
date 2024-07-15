@@ -13,4 +13,3 @@ Link to the model in HuggingFace Hub: https://huggingface.co/Mansuba/Lora_train
 Output from the interface 
 Prompt : ' a girl wearing blue  t shirt '
 ![image](https://github.com/user-attachments/assets/b59cfff8-4c2d-449d-8eec-1bf9904abd2f)
-![image](https://github.com/user-attachments/assets/2ee2954f-9999-4365-9063-295cf91b39c9)
