@@ -7,5 +7,5 @@ This is DeepFashion Dataset:
 
 
 Output from the interface 
-Prompt :'a girl wearing blue  t shirt'
+Prompt : ' a girl wearing blue  t shirt '
 ![image](https://github.com/user-attachments/assets/b59cfff8-4c2d-449d-8eec-1bf9904abd2f)
