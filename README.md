@@ -1,9 +1,6 @@
-# Image-Generation-from-text-using-DeepFashion-Datasets
+# Image-Generation-from-text-using-Dreambooth Datasets
 
 
-
-
-Link of the daatset in Hugging Face Hub: https://huggingface.co/datasets/Mansuba/DeepFashionsplit
 
 Link to the model in HuggingFace Hub: https://huggingface.co/Mansuba/Lora_train
 
